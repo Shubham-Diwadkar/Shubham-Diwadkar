@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Shubham-Diwadkar
 - 🌱 I’m currently learning AI and ML
-- <div style="background-image: linear-gradient(to right, #ff0000, #00ff00); padding: 10px">
-    <font color="white">This text has a gradient background!</font>
-</div>
+- <font color="red">This text is red!</font>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shubham-Diwadkar&theme=python-dark)](https://git.io/streak-stats)
 
