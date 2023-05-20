@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Shubham-Diwadkar
 - 🌱 I’m currently learning AI and ML
-- <font color="red">This text is red!</font>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shubham-Diwadkar&theme=python-dark)](https://git.io/streak-stats)
 
