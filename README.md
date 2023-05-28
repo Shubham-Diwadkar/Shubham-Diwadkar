@@ -3,6 +3,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Shubham-Diwadkar&theme=python-dark)](https://git.io/streak-stats)
 
+[![](https://visitcount.itsvg.in/api?id=Shubham-Diwadkar&label=Profile%20visits%20%3A&color=11&icon=0&pretty=true)](https://visitcount.itsvg.in)
+
 [![](https://visitcount.itsvg.in/api?id=Shubham-Diwadkar&label=Profile%20Views&color=1&pretty=true)](https://visitcount.itsvg.in)
 
 <!---
