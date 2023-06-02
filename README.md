@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@ShubhamDiwadkar](https://github.com/Shubham-Diwadkar)
+- 👋 Hi, I’m @Shubham Diwadkar
 - 🌱 I’m currently learning AI and ML
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Shubham-Diwadkar&theme=python-dark">
