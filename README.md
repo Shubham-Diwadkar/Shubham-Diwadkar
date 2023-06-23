@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shubham Diwadkar
-- 🌱 I’m currently learning AI and ML
+- 🌱 I’m currently learning Data Science
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Shubham-Diwadkar&theme=python-dark">
