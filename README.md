@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Shubham Diwadkar
 - ✍ I’m currently persuing Degree in Artificial Inteligence and Machine Learning Course (AIML)
 - 🌱 I want to become a Data Scientist
+
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Shubham-Diwadkar&theme=python-dark">
   
